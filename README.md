@@ -1,5 +1,8 @@
 # Netflix-Data-Analysis-Project
-Tools Used:
+Description:
+This project analyzes Netflix content to understand trends in movies, TV shows, genres, and country distribution.
+
+Tools:
 
 Python
 
@@ -7,13 +10,10 @@ Pandas
 
 Matplotlib
 
-Goal:
-Analyze Netflix content to understand:
+Key Findings:
 
-Distribution of Movies vs TV Shows
+Netflix catalog is dominated by movies.
 
-Content added over time
+Content production increased dramatically after 2016.
 
-Most common genres
-
-Top countries producing Netflix content
+Drama and international content are among the most common genres.
